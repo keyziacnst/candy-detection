@@ -41,7 +41,7 @@ YOLOv11s is chosen for its speed, accuracy, and lightweight architecture, making
 **🖼️ System Mockup:**
 Users upload an image of candy, then press the "Detect" button. The system displays bounding boxes and classifies each candy as normal or defective. The output includes class labels and confidence scores for each detected object.
 <div style="text-align: center;">
-    <img src="test/testing.png" alt="Website Interface" width="500"/>
+    <img src="test/testing.jpeg" alt="Website Interface" width="500"/>
 </div>
 
 
