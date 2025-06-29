@@ -1,1 +1,1 @@
-# candy-detection
+# Candy Detection Using YOLOv11s
