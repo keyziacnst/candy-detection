@@ -1,0 +1,65 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Beryl's Almond Dark"
+    },
+    {
+      "id": 1,
+      "name": "Beryl's Almond Milk"
+    },
+    {
+      "id": 2,
+      "name": "Beryl's Mint & Bitter"
+    },
+    {
+      "id": 3,
+      "name": "Chacha"
+    },
+    {
+      "id": 4,
+      "name": "Fitbar"
+    },
+    {
+      "id": 5,
+      "name": "Happydent"
+    },
+    {
+      "id": 6,
+      "name": "Himalaya Vajomba"
+    },
+    {
+      "id": 7,
+      "name": "Kacang Pukul"
+    },
+    {
+      "id": 8,
+      "name": "Milkita Bites"
+    },
+    {
+      "id": 9,
+      "name": "Milo"
+    },
+    {
+      "id": 10,
+      "name": "SilverQueen"
+    },
+    {
+      "id": 11,
+      "name": "Snickers"
+    },
+    {
+      "id": 12,
+      "name": "Xylitol"
+    },
+    {
+      "id": 13,
+      "name": "Yupi"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
