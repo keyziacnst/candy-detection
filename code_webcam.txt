@@ -1,0 +1,11 @@
+[Code untu menjalankan deteksi objek secara realtime menggunakan YOLO dari webcam eksternal (USB camera)]
+
+conda activate yolo-env1
+
+cd C:\Users\Asus\Downloads\yolo\my_model
+
+pip install ultralytics
+
+curl -o yolo_detect.py https://www.ejtech.io/code/yolo_detect.py
+
+python yolo_detect.py --model my_model.pt --source usb0 --resolution 1280x720
