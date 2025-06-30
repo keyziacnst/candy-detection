@@ -8,11 +8,11 @@ YOLOv11s is chosen for its speed, accuracy, and lightweight architecture, making
 ## 📊 Dataset & Preprocessing
 
 ### 📸 Data Collection
-- Images were captured from the production line using industrial cameras.
+- Images were captured from the production line using cameras.
 - Multiple lighting conditions and candy positions were recorded to increase data diversity.
 
 ### 📝 Preprocessing
-- **Annotation**: Candy objects (normal and defective) were labeled using bounding boxes via LabelImg.
+- **Annotation**: Candy objects were labeled using bounding boxes via LabelImg.
 - **Augmentation**: Techniques like rotation, flipping, and brightness adjustment were applied to expand and balance the dataset.
 
 ## 🧠 YOLOv11s Model
@@ -26,7 +26,7 @@ YOLOv11s is chosen for its speed, accuracy, and lightweight architecture, making
 - Each prediction includes a bounding box, class label, and confidence score.
 
 ## 🛠️ Tools & Frameworks
-- 🧰 Ultralytics YOLOv5/YOLOv11s
+- 🧰 Ultralytics YOLOv11s
 - 💻 Google Colab
 - 📦 Python (OpenCV, NumPy, Matplotlib, PyYAML)
 
