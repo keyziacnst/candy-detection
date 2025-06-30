@@ -39,7 +39,7 @@ YOLOv11s is chosen for its speed, accuracy, and lightweight architecture, making
 6. Export the model as .pt or .zip for deployment.
 
 **🖼️ System Mockup:**
-Users upload an image of candy, then press the "Detect" button. The system displays bounding boxes and classifies each candy as normal or defective. The output includes class labels and confidence scores for each detected object.
+The deployment is performed using Anaconda Prompt by running several scripts to activate the camera in real-time. Once the camera is running, users can present a candy in front of it, and the system will automatically detect the object with high accuracy, displaying bounding boxes along with class labels and confidence scores.
 <div style="text-align: center;">
     <img src="test/testing.jpeg" alt="Website Interface" width="500"/>
 </div>
