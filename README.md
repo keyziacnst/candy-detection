@@ -30,6 +30,20 @@ YOLOv11s is chosen for its speed, accuracy, and lightweight architecture, making
 - 💻 Google Colab
 - 📦 Python (OpenCV, NumPy, Matplotlib, PyYAML)
 
+## ⚙️🛠️ Setup & Installation Guide for Custom YOLO (Google Colab)
+- Open Google Colab
+Go to https://colab.research.google.com
+Create a new notebook.
+- Clone the YOLOv5 Repository
+- Install the Required Dependencies
+- Prepare the Dataset
+Each image must have a corresponding .txt label file using YOLO format
+- Create the Dataset Config File
+- Train the Model
+- Run Inference
+- Save Your Model
+You can download it or copy it to Google Drive for backup.
+
 ## 🧪 Implementation Flow
 1. Upload data.zip to Google Colab.
 2. Extract and annotate the dataset.
